@@ -29,7 +29,7 @@ Un bot Discord puissant qui surveille plusieurs flux RSS et publie automatiqueme
 
 1. **Clonez le dépôt** :
 ```bash
-git clone https://github.com/votre-utilisateur/discord-rss-bot.git
+git clone https://github.com/CedricPoint/discord-rss-bot.git
 cd discord-rss-bot
 ```
 
